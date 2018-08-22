@@ -44,7 +44,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>br.com.cruz.testegft.App</mainClass>
+							<mainClass>br.com.cruz.testegft.Main</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
